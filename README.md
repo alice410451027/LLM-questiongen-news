@@ -51,6 +51,3 @@ This project builds an automated pipeline that:
 - **AI Development**: Can be fine-tuned for intelligent tutoring or news summarization tasks  
 - **Media Analysis**: Studying how AI generates inquiries based on media  
 - **Education**: Reading comprehension, news literacy programs
-
-
-
